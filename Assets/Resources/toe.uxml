@@ -1,0 +1,29 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Button name="toe-hide" style="position: absolute; width: 100%; height: 100%; background-color: rgba(25, 25, 25, 0.7); background-image: url(&quot;project://database/Assets/Images/fade.png?fileID=2800000&amp;guid=ffabe525e3dcfad428bfcd988dbba96d&amp;type=3#fade&quot;); -unity-background-image-tint-color: rgb(0, 0, 0); border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; top: 0;" />
+    <ui:VisualElement name="toe-container" picking-mode="Ignore" style="justify-content: center; align-items: center; position: absolute; height: 100%; flex-grow: 1; width: 90%; left: 5%; padding-top: 20%;">
+        <ui:VisualElement name="shell1" style="flex-direction: row; justify-content: center;" />
+        <ui:VisualElement name="shell2" style="flex-direction: row;" />
+        <ui:VisualElement name="shell3" style="flex-direction: row;" />
+        <ui:VisualElement name="shell4" style="flex-direction: row;" />
+        <ui:VisualElement name="shell5" style="flex-direction: row;" />
+        <ui:VisualElement name="shell6" style="flex-direction: row;" />
+        <ui:VisualElement name="shell7" style="flex-direction: row;" />
+        <ui:VisualElement name="shell6Extended" style="flex-direction: row; margin-top: 50px;" />
+        <ui:VisualElement name="shell7Extended" style="flex-direction: row;" />
+        <ui:VisualElement name="selecting" style="flex-grow: 1; position: absolute; align-items: center; width: 600px; height: 600px; justify-content: center; top: 64px;">
+            <Sumfulla.Atomica.ElementTileSelected name="selecting-tile" size="350px" style="width: 450px; height: 450px; justify-content: flex-end; align-items: center; display: flex;" />
+            <ui:Label name="selecting-label" text="-" style="position: relative; color: rgb(255, 255, 255); font-size: 60px; -unity-text-align: upper-center; -unity-font-definition: url(&quot;project://database/Assets/Font/OpenSans-Bold.ttf?fileID=12800000&amp;guid=b516066fcae0a3041a3f333ebb867a06&amp;type=3#OpenSans-Bold&quot;);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="toe-container__selected" picking-mode="Ignore" style="justify-content: center; align-items: center; position: absolute; width: 90%; height: 100%; padding-top: 20%; left: 5%;">
+        <ui:VisualElement name="shell1" style="flex-direction: row;" />
+        <ui:VisualElement name="shell2" style="flex-direction: row;" />
+        <ui:VisualElement name="shell3" style="flex-direction: row;" />
+        <ui:VisualElement name="shell4" style="flex-direction: row;" />
+        <ui:VisualElement name="shell5" style="flex-direction: row;" />
+        <ui:VisualElement name="shell6" style="flex-direction: row;" />
+        <ui:VisualElement name="shell7" style="flex-direction: row;" />
+        <ui:VisualElement name="shell6Extended" style="flex-direction: row; margin-top: 50px;" />
+        <ui:VisualElement name="shell7Extended" style="flex-direction: row;" />
+    </ui:VisualElement>
+</ui:UXML>

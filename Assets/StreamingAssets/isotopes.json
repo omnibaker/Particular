@@ -1,0 +1,3190 @@
+{
+  "Isotopes": [
+    {
+      "Symbol": "H",
+      "Protons": 1,
+      "Neutrons": 0,
+      "AtomicMass": 1,
+      "RelativeAtomicMass": 1.007825032,
+      "Composition": 0.999885,
+      "IsotopeName": "Protium"
+    },
+    {
+      "Symbol": "D",
+      "Protons": 1,
+      "Neutrons": 1,
+      "AtomicMass": 2,
+      "RelativeAtomicMass": 2.014101778,
+      "Composition": 0.000115,
+      "IsotopeName": "Deuterium"
+    },
+    {
+      "Symbol": "T",
+      "Protons": 1,
+      "Neutrons": 2,
+      "AtomicMass": 3,
+      "RelativeAtomicMass": 3.016049278,
+      "Composition": 0,
+      "IsotopeName": "Tritium"
+    },
+    {
+      "Symbol": "He",
+      "Protons": 2,
+      "Neutrons": 1,
+      "AtomicMass": 3,
+      "RelativeAtomicMass": 3.01602932,
+      "Composition": 0.00000134,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "He",
+      "Protons": 2,
+      "Neutrons": 2,
+      "AtomicMass": 4,
+      "RelativeAtomicMass": 4.002603254,
+      "Composition": 0.99999866,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Li",
+      "Protons": 3,
+      "Neutrons": 3,
+      "AtomicMass": 6,
+      "RelativeAtomicMass": 6.015122887,
+      "Composition": 0.0759,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Li",
+      "Protons": 3,
+      "Neutrons": 4,
+      "AtomicMass": 7,
+      "RelativeAtomicMass": 7.016003437,
+      "Composition": 0.9241,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Be",
+      "Protons": 4,
+      "Neutrons": 5,
+      "AtomicMass": 9,
+      "RelativeAtomicMass": 9.012183065,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "B",
+      "Protons": 5,
+      "Neutrons": 5,
+      "AtomicMass": 10,
+      "RelativeAtomicMass": 10.01293695,
+      "Composition": 0.199,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "B",
+      "Protons": 5,
+      "Neutrons": 6,
+      "AtomicMass": 11,
+      "RelativeAtomicMass": 11.00930536,
+      "Composition": 0.801,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "C",
+      "Protons": 6,
+      "Neutrons": 6,
+      "AtomicMass": 12,
+      "RelativeAtomicMass": 12,
+      "Composition": 0.99,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "C",
+      "Protons": 6,
+      "Neutrons": 7,
+      "AtomicMass": 13,
+      "RelativeAtomicMass": 13.00335484,
+      "Composition": 0.01,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "C",
+      "Protons": 6,
+      "Neutrons": 8,
+      "AtomicMass": 14,
+      "RelativeAtomicMass": 14.00324199,
+      "Composition": null,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "N",
+      "Protons": 7,
+      "Neutrons": 7,
+      "AtomicMass": 14,
+      "RelativeAtomicMass": 14.003074,
+      "Composition": 0.99636,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "N",
+      "Protons": 7,
+      "Neutrons": 8,
+      "AtomicMass": 15,
+      "RelativeAtomicMass": 15.0001089,
+      "Composition": 0.00364,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "O",
+      "Protons": 8,
+      "Neutrons": 8,
+      "AtomicMass": 16,
+      "RelativeAtomicMass": 15.99491462,
+      "Composition": 0.99757,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "O",
+      "Protons": 8,
+      "Neutrons": 9,
+      "AtomicMass": 17,
+      "RelativeAtomicMass": 16.99913176,
+      "Composition": 0.00038,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "O",
+      "Protons": 8,
+      "Neutrons": 10,
+      "AtomicMass": 18,
+      "RelativeAtomicMass": 17.99915961,
+      "Composition": 0.00205,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "F",
+      "Protons": 9,
+      "Neutrons": 10,
+      "AtomicMass": 19,
+      "RelativeAtomicMass": 18.99840316,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ne",
+      "Protons": 10,
+      "Neutrons": 10,
+      "AtomicMass": 20,
+      "RelativeAtomicMass": 19.99244018,
+      "Composition": 0.9048,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ne",
+      "Protons": 10,
+      "Neutrons": 11,
+      "AtomicMass": 21,
+      "RelativeAtomicMass": 20.99384669,
+      "Composition": 0.0027,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ne",
+      "Protons": 10,
+      "Neutrons": 12,
+      "AtomicMass": 22,
+      "RelativeAtomicMass": 21.99138511,
+      "Composition": 0.0925,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Na",
+      "Protons": 11,
+      "Neutrons": 12,
+      "AtomicMass": 23,
+      "RelativeAtomicMass": 22.98976928,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mg",
+      "Protons": 12,
+      "Neutrons": 12,
+      "AtomicMass": 24,
+      "RelativeAtomicMass": 23.9850417,
+      "Composition": 0.7899,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mg",
+      "Protons": 12,
+      "Neutrons": 13,
+      "AtomicMass": 25,
+      "RelativeAtomicMass": 24.98583698,
+      "Composition": 0.1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mg",
+      "Protons": 12,
+      "Neutrons": 14,
+      "AtomicMass": 26,
+      "RelativeAtomicMass": 25.98259297,
+      "Composition": 0.1101,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Al",
+      "Protons": 13,
+      "Neutrons": 14,
+      "AtomicMass": 27,
+      "RelativeAtomicMass": 26.98153853,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Si",
+      "Protons": 14,
+      "Neutrons": 14,
+      "AtomicMass": 28,
+      "RelativeAtomicMass": 27.97692654,
+      "Composition": 0.92223,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Si",
+      "Protons": 14,
+      "Neutrons": 15,
+      "AtomicMass": 29,
+      "RelativeAtomicMass": 28.97649467,
+      "Composition": 0.04685,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Si",
+      "Protons": 14,
+      "Neutrons": 16,
+      "AtomicMass": 30,
+      "RelativeAtomicMass": 29.97377014,
+      "Composition": 0.03092,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "P",
+      "Protons": 15,
+      "Neutrons": 16,
+      "AtomicMass": 31,
+      "RelativeAtomicMass": 30.973762,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "S",
+      "Protons": 16,
+      "Neutrons": 16,
+      "AtomicMass": 32,
+      "RelativeAtomicMass": 31.97207117,
+      "Composition": 0.9499,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "S",
+      "Protons": 16,
+      "Neutrons": 17,
+      "AtomicMass": 33,
+      "RelativeAtomicMass": 32.97145891,
+      "Composition": 0.0075,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "S",
+      "Protons": 16,
+      "Neutrons": 18,
+      "AtomicMass": 34,
+      "RelativeAtomicMass": 33.967867,
+      "Composition": 0.0425,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "S",
+      "Protons": 16,
+      "Neutrons": 20,
+      "AtomicMass": 36,
+      "RelativeAtomicMass": 35.96708071,
+      "Composition": 0.0001,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cl",
+      "Protons": 17,
+      "Neutrons": 18,
+      "AtomicMass": 35,
+      "RelativeAtomicMass": 34.96885268,
+      "Composition": 0.7576,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cl",
+      "Protons": 17,
+      "Neutrons": 20,
+      "AtomicMass": 37,
+      "RelativeAtomicMass": 36.9659026,
+      "Composition": 0.2424,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ar",
+      "Protons": 18,
+      "Neutrons": 18,
+      "AtomicMass": 36,
+      "RelativeAtomicMass": 35.96754511,
+      "Composition": 0.003336,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ar",
+      "Protons": 18,
+      "Neutrons": 20,
+      "AtomicMass": 38,
+      "RelativeAtomicMass": 37.96273211,
+      "Composition": 0.000629,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ar",
+      "Protons": 18,
+      "Neutrons": 22,
+      "AtomicMass": 40,
+      "RelativeAtomicMass": 39.96238312,
+      "Composition": 0.996035,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "K",
+      "Protons": 19,
+      "Neutrons": 20,
+      "AtomicMass": 39,
+      "RelativeAtomicMass": 38.96370649,
+      "Composition": 0.932581,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "K",
+      "Protons": 19,
+      "Neutrons": 21,
+      "AtomicMass": 40,
+      "RelativeAtomicMass": 39.96399817,
+      "Composition": 0.000117,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "K",
+      "Protons": 19,
+      "Neutrons": 22,
+      "AtomicMass": 41,
+      "RelativeAtomicMass": 40.96182526,
+      "Composition": 0.067302,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 20,
+      "AtomicMass": 40,
+      "RelativeAtomicMass": 39.96259086,
+      "Composition": 0.96941,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 22,
+      "AtomicMass": 42,
+      "RelativeAtomicMass": 41.95861783,
+      "Composition": 0.00647,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 23,
+      "AtomicMass": 43,
+      "RelativeAtomicMass": 42.95876644,
+      "Composition": 0.00135,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 24,
+      "AtomicMass": 44,
+      "RelativeAtomicMass": 43.95548156,
+      "Composition": 0.02086,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 26,
+      "AtomicMass": 46,
+      "RelativeAtomicMass": 45.953689,
+      "Composition": 0.00004,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ca",
+      "Protons": 20,
+      "Neutrons": 28,
+      "AtomicMass": 48,
+      "RelativeAtomicMass": 47.95252276,
+      "Composition": 0.00187,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sc",
+      "Protons": 21,
+      "Neutrons": 24,
+      "AtomicMass": 45,
+      "RelativeAtomicMass": 44.95590828,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ti",
+      "Protons": 22,
+      "Neutrons": 24,
+      "AtomicMass": 46,
+      "RelativeAtomicMass": 45.95262772,
+      "Composition": 0.0825,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ti",
+      "Protons": 22,
+      "Neutrons": 25,
+      "AtomicMass": 47,
+      "RelativeAtomicMass": 46.95175879,
+      "Composition": 0.0744,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ti",
+      "Protons": 22,
+      "Neutrons": 26,
+      "AtomicMass": 48,
+      "RelativeAtomicMass": 47.94794198,
+      "Composition": 0.7372,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ti",
+      "Protons": 22,
+      "Neutrons": 27,
+      "AtomicMass": 49,
+      "RelativeAtomicMass": 48.94786568,
+      "Composition": 0.0541,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ti",
+      "Protons": 22,
+      "Neutrons": 28,
+      "AtomicMass": 50,
+      "RelativeAtomicMass": 49.94478689,
+      "Composition": 0.0518,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "V",
+      "Protons": 23,
+      "Neutrons": 27,
+      "AtomicMass": 50,
+      "RelativeAtomicMass": 49.94715601,
+      "Composition": 0.0025,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "V",
+      "Protons": 23,
+      "Neutrons": 28,
+      "AtomicMass": 51,
+      "RelativeAtomicMass": 50.94395704,
+      "Composition": 0.9975,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cr",
+      "Protons": 24,
+      "Neutrons": 26,
+      "AtomicMass": 50,
+      "RelativeAtomicMass": 49.94604183,
+      "Composition": 0.04345,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cr",
+      "Protons": 24,
+      "Neutrons": 28,
+      "AtomicMass": 52,
+      "RelativeAtomicMass": 51.94050623,
+      "Composition": 0.83789,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cr",
+      "Protons": 24,
+      "Neutrons": 29,
+      "AtomicMass": 53,
+      "RelativeAtomicMass": 52.94064815,
+      "Composition": 0.09501,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cr",
+      "Protons": 24,
+      "Neutrons": 30,
+      "AtomicMass": 54,
+      "RelativeAtomicMass": 53.93887916,
+      "Composition": 0.02365,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mn",
+      "Protons": 25,
+      "Neutrons": 30,
+      "AtomicMass": 55,
+      "RelativeAtomicMass": 54.93804391,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fe",
+      "Protons": 26,
+      "Neutrons": 28,
+      "AtomicMass": 54,
+      "RelativeAtomicMass": 53.93960899,
+      "Composition": 0.05845,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fe",
+      "Protons": 26,
+      "Neutrons": 30,
+      "AtomicMass": 56,
+      "RelativeAtomicMass": 55.93493633,
+      "Composition": 0.91754,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fe",
+      "Protons": 26,
+      "Neutrons": 31,
+      "AtomicMass": 57,
+      "RelativeAtomicMass": 56.93539284,
+      "Composition": 0.02119,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fe",
+      "Protons": 26,
+      "Neutrons": 32,
+      "AtomicMass": 58,
+      "RelativeAtomicMass": 57.93327443,
+      "Composition": 0.00282,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Co",
+      "Protons": 27,
+      "Neutrons": 32,
+      "AtomicMass": 59,
+      "RelativeAtomicMass": 58.93319429,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ni",
+      "Protons": 28,
+      "Neutrons": 30,
+      "AtomicMass": 58,
+      "RelativeAtomicMass": 57.93534241,
+      "Composition": 0.68077,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ni",
+      "Protons": 28,
+      "Neutrons": 32,
+      "AtomicMass": 60,
+      "RelativeAtomicMass": 59.93078588,
+      "Composition": 0.26223,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ni",
+      "Protons": 28,
+      "Neutrons": 33,
+      "AtomicMass": 61,
+      "RelativeAtomicMass": 60.93105557,
+      "Composition": 0.011399,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ni",
+      "Protons": 28,
+      "Neutrons": 34,
+      "AtomicMass": 62,
+      "RelativeAtomicMass": 61.92834537,
+      "Composition": 0.036346,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ni",
+      "Protons": 28,
+      "Neutrons": 36,
+      "AtomicMass": 64,
+      "RelativeAtomicMass": 63.92796682,
+      "Composition": 0.009255,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cu",
+      "Protons": 29,
+      "Neutrons": 34,
+      "AtomicMass": 63,
+      "RelativeAtomicMass": 62.92959772,
+      "Composition": 0.6915,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cu",
+      "Protons": 29,
+      "Neutrons": 36,
+      "AtomicMass": 65,
+      "RelativeAtomicMass": 64.9277897,
+      "Composition": 0.3085,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zn",
+      "Protons": 30,
+      "Neutrons": 34,
+      "AtomicMass": 64,
+      "RelativeAtomicMass": 63.92914201,
+      "Composition": 0.4917,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zn",
+      "Protons": 30,
+      "Neutrons": 36,
+      "AtomicMass": 66,
+      "RelativeAtomicMass": 65.92603381,
+      "Composition": 0.2773,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zn",
+      "Protons": 30,
+      "Neutrons": 37,
+      "AtomicMass": 67,
+      "RelativeAtomicMass": 66.92712775,
+      "Composition": 0.0404,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zn",
+      "Protons": 30,
+      "Neutrons": 38,
+      "AtomicMass": 68,
+      "RelativeAtomicMass": 67.92484455,
+      "Composition": 0.1845,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zn",
+      "Protons": 30,
+      "Neutrons": 40,
+      "AtomicMass": 70,
+      "RelativeAtomicMass": 69.9253192,
+      "Composition": 0.0061,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ga",
+      "Protons": 31,
+      "Neutrons": 38,
+      "AtomicMass": 69,
+      "RelativeAtomicMass": 68.9255735,
+      "Composition": 0.60108,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ga",
+      "Protons": 31,
+      "Neutrons": 40,
+      "AtomicMass": 71,
+      "RelativeAtomicMass": 70.92470258,
+      "Composition": 0.39892,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ge",
+      "Protons": 32,
+      "Neutrons": 38,
+      "AtomicMass": 70,
+      "RelativeAtomicMass": 69.92424875,
+      "Composition": 0.2057,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ge",
+      "Protons": 32,
+      "Neutrons": 40,
+      "AtomicMass": 72,
+      "RelativeAtomicMass": 71.92207583,
+      "Composition": 0.2745,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ge",
+      "Protons": 32,
+      "Neutrons": 41,
+      "AtomicMass": 73,
+      "RelativeAtomicMass": 72.92345896,
+      "Composition": 0.0775,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ge",
+      "Protons": 32,
+      "Neutrons": 42,
+      "AtomicMass": 74,
+      "RelativeAtomicMass": 73.92117776,
+      "Composition": 0.365,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ge",
+      "Protons": 32,
+      "Neutrons": 44,
+      "AtomicMass": 76,
+      "RelativeAtomicMass": 75.92140273,
+      "Composition": 0.0773,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "As",
+      "Protons": 33,
+      "Neutrons": 42,
+      "AtomicMass": 75,
+      "RelativeAtomicMass": 74.92159457,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 40,
+      "AtomicMass": 74,
+      "RelativeAtomicMass": 73.92247593,
+      "Composition": 0.0089,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 42,
+      "AtomicMass": 76,
+      "RelativeAtomicMass": 75.9192137,
+      "Composition": 0.0937,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 43,
+      "AtomicMass": 77,
+      "RelativeAtomicMass": 76.91991415,
+      "Composition": 0.0763,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 44,
+      "AtomicMass": 78,
+      "RelativeAtomicMass": 77.91730928,
+      "Composition": 0.2377,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 46,
+      "AtomicMass": 80,
+      "RelativeAtomicMass": 79.9165218,
+      "Composition": 0.4961,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Se",
+      "Protons": 34,
+      "Neutrons": 48,
+      "AtomicMass": 82,
+      "RelativeAtomicMass": 81.9166995,
+      "Composition": 0.0873,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Br",
+      "Protons": 35,
+      "Neutrons": 44,
+      "AtomicMass": 79,
+      "RelativeAtomicMass": 78.9183376,
+      "Composition": 0.5069,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Br",
+      "Protons": 35,
+      "Neutrons": 46,
+      "AtomicMass": 81,
+      "RelativeAtomicMass": 80.9162897,
+      "Composition": 0.4931,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 42,
+      "AtomicMass": 78,
+      "RelativeAtomicMass": 77.92036494,
+      "Composition": 0.00355,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 44,
+      "AtomicMass": 80,
+      "RelativeAtomicMass": 79.91637808,
+      "Composition": 0.02286,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 46,
+      "AtomicMass": 82,
+      "RelativeAtomicMass": 81.91348273,
+      "Composition": 0.11593,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 47,
+      "AtomicMass": 83,
+      "RelativeAtomicMass": 82.91412716,
+      "Composition": 0.115,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 48,
+      "AtomicMass": 84,
+      "RelativeAtomicMass": 83.91149773,
+      "Composition": 0.56987,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Kr",
+      "Protons": 36,
+      "Neutrons": 50,
+      "AtomicMass": 86,
+      "RelativeAtomicMass": 85.91061063,
+      "Composition": 0.17279,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rb",
+      "Protons": 37,
+      "Neutrons": 48,
+      "AtomicMass": 85,
+      "RelativeAtomicMass": 84.91178974,
+      "Composition": 0.7217,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rb",
+      "Protons": 37,
+      "Neutrons": 50,
+      "AtomicMass": 87,
+      "RelativeAtomicMass": 86.90918053,
+      "Composition": 0.2783,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sr",
+      "Protons": 38,
+      "Neutrons": 46,
+      "AtomicMass": 84,
+      "RelativeAtomicMass": 83.9134191,
+      "Composition": 0.0056,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sr",
+      "Protons": 38,
+      "Neutrons": 48,
+      "AtomicMass": 86,
+      "RelativeAtomicMass": 85.9092606,
+      "Composition": 0.0986,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sr",
+      "Protons": 38,
+      "Neutrons": 49,
+      "AtomicMass": 87,
+      "RelativeAtomicMass": 86.9088775,
+      "Composition": 0.07,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sr",
+      "Protons": 38,
+      "Neutrons": 50,
+      "AtomicMass": 88,
+      "RelativeAtomicMass": 87.9056125,
+      "Composition": 0.8258,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Y",
+      "Protons": 39,
+      "Neutrons": 50,
+      "AtomicMass": 89,
+      "RelativeAtomicMass": 88.9058403,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zr",
+      "Protons": 40,
+      "Neutrons": 50,
+      "AtomicMass": 90,
+      "RelativeAtomicMass": 89.9046977,
+      "Composition": 0.5145,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zr",
+      "Protons": 40,
+      "Neutrons": 51,
+      "AtomicMass": 91,
+      "RelativeAtomicMass": 90.9056396,
+      "Composition": 0.1122,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zr",
+      "Protons": 40,
+      "Neutrons": 52,
+      "AtomicMass": 92,
+      "RelativeAtomicMass": 91.9050347,
+      "Composition": 0.1715,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zr",
+      "Protons": 40,
+      "Neutrons": 54,
+      "AtomicMass": 94,
+      "RelativeAtomicMass": 93.9063108,
+      "Composition": 0.1738,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Zr",
+      "Protons": 40,
+      "Neutrons": 56,
+      "AtomicMass": 96,
+      "RelativeAtomicMass": 95.9082714,
+      "Composition": 0.028,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nb",
+      "Protons": 41,
+      "Neutrons": 52,
+      "AtomicMass": 93,
+      "RelativeAtomicMass": 92.906373,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 50,
+      "AtomicMass": 92,
+      "RelativeAtomicMass": 91.90680796,
+      "Composition": 0.1453,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 52,
+      "AtomicMass": 94,
+      "RelativeAtomicMass": 93.9050849,
+      "Composition": 0.0915,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 53,
+      "AtomicMass": 95,
+      "RelativeAtomicMass": 94.90583877,
+      "Composition": 0.1584,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 54,
+      "AtomicMass": 96,
+      "RelativeAtomicMass": 95.90467612,
+      "Composition": 0.1667,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 55,
+      "AtomicMass": 97,
+      "RelativeAtomicMass": 96.90601812,
+      "Composition": 0.096,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 56,
+      "AtomicMass": 98,
+      "RelativeAtomicMass": 97.90540482,
+      "Composition": 0.2439,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mo",
+      "Protons": 42,
+      "Neutrons": 58,
+      "AtomicMass": 100,
+      "RelativeAtomicMass": 99.9074718,
+      "Composition": 0.0982,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tc",
+      "Protons": 43,
+      "Neutrons": 54,
+      "AtomicMass": 97,
+      "RelativeAtomicMass": 96.9063667,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tc",
+      "Protons": 43,
+      "Neutrons": 55,
+      "AtomicMass": 98,
+      "RelativeAtomicMass": 97.9072124,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tc",
+      "Protons": 43,
+      "Neutrons": 56,
+      "AtomicMass": 99,
+      "RelativeAtomicMass": 98.9062508,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 52,
+      "AtomicMass": 96,
+      "RelativeAtomicMass": 95.90759025,
+      "Composition": 0.0554,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 54,
+      "AtomicMass": 98,
+      "RelativeAtomicMass": 97.9052868,
+      "Composition": 0.0187,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 55,
+      "AtomicMass": 99,
+      "RelativeAtomicMass": 98.9059341,
+      "Composition": 0.1276,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 56,
+      "AtomicMass": 100,
+      "RelativeAtomicMass": 99.9042143,
+      "Composition": 0.126,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 57,
+      "AtomicMass": 101,
+      "RelativeAtomicMass": 100.9055769,
+      "Composition": 0.1706,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 58,
+      "AtomicMass": 102,
+      "RelativeAtomicMass": 101.9043441,
+      "Composition": 0.3155,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ru",
+      "Protons": 44,
+      "Neutrons": 60,
+      "AtomicMass": 104,
+      "RelativeAtomicMass": 103.9054275,
+      "Composition": 0.1862,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rh",
+      "Protons": 45,
+      "Neutrons": 58,
+      "AtomicMass": 103,
+      "RelativeAtomicMass": 102.905498,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 56,
+      "AtomicMass": 102,
+      "RelativeAtomicMass": 101.9056022,
+      "Composition": 0.0102,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 58,
+      "AtomicMass": 104,
+      "RelativeAtomicMass": 103.9040305,
+      "Composition": 0.1114,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 59,
+      "AtomicMass": 105,
+      "RelativeAtomicMass": 104.9050796,
+      "Composition": 0.2233,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 60,
+      "AtomicMass": 106,
+      "RelativeAtomicMass": 105.9034804,
+      "Composition": 0.2733,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 62,
+      "AtomicMass": 108,
+      "RelativeAtomicMass": 107.9038916,
+      "Composition": 0.2646,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pd",
+      "Protons": 46,
+      "Neutrons": 64,
+      "AtomicMass": 110,
+      "RelativeAtomicMass": 109.9051722,
+      "Composition": 0.1172,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ag",
+      "Protons": 47,
+      "Neutrons": 60,
+      "AtomicMass": 107,
+      "RelativeAtomicMass": 106.9050916,
+      "Composition": 0.51839,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ag",
+      "Protons": 47,
+      "Neutrons": 62,
+      "AtomicMass": 109,
+      "RelativeAtomicMass": 108.9047553,
+      "Composition": 0.48161,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 58,
+      "AtomicMass": 106,
+      "RelativeAtomicMass": 105.9064599,
+      "Composition": 0.0125,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 60,
+      "AtomicMass": 108,
+      "RelativeAtomicMass": 107.9041834,
+      "Composition": 0.0089,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 62,
+      "AtomicMass": 110,
+      "RelativeAtomicMass": 109.9030066,
+      "Composition": 0.1249,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 63,
+      "AtomicMass": 111,
+      "RelativeAtomicMass": 110.9041829,
+      "Composition": 0.128,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 64,
+      "AtomicMass": 112,
+      "RelativeAtomicMass": 111.9027629,
+      "Composition": 0.2413,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 65,
+      "AtomicMass": 113,
+      "RelativeAtomicMass": 112.9044081,
+      "Composition": 0.1222,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 66,
+      "AtomicMass": 114,
+      "RelativeAtomicMass": 113.9033651,
+      "Composition": 0.2873,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cd",
+      "Protons": 48,
+      "Neutrons": 68,
+      "AtomicMass": 116,
+      "RelativeAtomicMass": 115.9047632,
+      "Composition": 0.0749,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "In",
+      "Protons": 49,
+      "Neutrons": 64,
+      "AtomicMass": 113,
+      "RelativeAtomicMass": 112.9040618,
+      "Composition": 0.0429,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "In",
+      "Protons": 49,
+      "Neutrons": 66,
+      "AtomicMass": 115,
+      "RelativeAtomicMass": 114.9038788,
+      "Composition": 0.9571,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 62,
+      "AtomicMass": 112,
+      "RelativeAtomicMass": 111.9048239,
+      "Composition": 0.0097,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 64,
+      "AtomicMass": 114,
+      "RelativeAtomicMass": 113.9027827,
+      "Composition": 0.0066,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 65,
+      "AtomicMass": 115,
+      "RelativeAtomicMass": 114.9033447,
+      "Composition": 0.0034,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 66,
+      "AtomicMass": 116,
+      "RelativeAtomicMass": 115.9017428,
+      "Composition": 0.1454,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 67,
+      "AtomicMass": 117,
+      "RelativeAtomicMass": 116.902954,
+      "Composition": 0.0768,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 68,
+      "AtomicMass": 118,
+      "RelativeAtomicMass": 117.9016066,
+      "Composition": 0.2422,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 69,
+      "AtomicMass": 119,
+      "RelativeAtomicMass": 118.9033112,
+      "Composition": 0.0859,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 70,
+      "AtomicMass": 120,
+      "RelativeAtomicMass": 119.9022016,
+      "Composition": 0.3258,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 72,
+      "AtomicMass": 122,
+      "RelativeAtomicMass": 121.9034438,
+      "Composition": 0.0463,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sn",
+      "Protons": 50,
+      "Neutrons": 74,
+      "AtomicMass": 124,
+      "RelativeAtomicMass": 123.9052766,
+      "Composition": 0.0579,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sb",
+      "Protons": 51,
+      "Neutrons": 70,
+      "AtomicMass": 121,
+      "RelativeAtomicMass": 120.903812,
+      "Composition": 0.5721,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sb",
+      "Protons": 51,
+      "Neutrons": 72,
+      "AtomicMass": 123,
+      "RelativeAtomicMass": 122.9042132,
+      "Composition": 0.4279,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 68,
+      "AtomicMass": 120,
+      "RelativeAtomicMass": 119.9040593,
+      "Composition": 0.0009,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 70,
+      "AtomicMass": 122,
+      "RelativeAtomicMass": 121.9030435,
+      "Composition": 0.0255,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 71,
+      "AtomicMass": 123,
+      "RelativeAtomicMass": 122.9042698,
+      "Composition": 0.0089,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 72,
+      "AtomicMass": 124,
+      "RelativeAtomicMass": 123.9028171,
+      "Composition": 0.0474,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 73,
+      "AtomicMass": 125,
+      "RelativeAtomicMass": 124.9044299,
+      "Composition": 0.0707,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 74,
+      "AtomicMass": 126,
+      "RelativeAtomicMass": 125.9033109,
+      "Composition": 0.1884,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 76,
+      "AtomicMass": 128,
+      "RelativeAtomicMass": 127.9044613,
+      "Composition": 0.3174,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Te",
+      "Protons": 52,
+      "Neutrons": 78,
+      "AtomicMass": 130,
+      "RelativeAtomicMass": 129.9062227,
+      "Composition": 0.3408,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "I",
+      "Protons": 53,
+      "Neutrons": 74,
+      "AtomicMass": 127,
+      "RelativeAtomicMass": 126.9044719,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 70,
+      "AtomicMass": 124,
+      "RelativeAtomicMass": 123.905892,
+      "Composition": 0.000952,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 72,
+      "AtomicMass": 126,
+      "RelativeAtomicMass": 125.9042983,
+      "Composition": 0.00089,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 74,
+      "AtomicMass": 128,
+      "RelativeAtomicMass": 127.903531,
+      "Composition": 0.019102,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 75,
+      "AtomicMass": 129,
+      "RelativeAtomicMass": 128.9047809,
+      "Composition": 0.264006,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 76,
+      "AtomicMass": 130,
+      "RelativeAtomicMass": 129.9035093,
+      "Composition": 0.04071,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 77,
+      "AtomicMass": 131,
+      "RelativeAtomicMass": 130.9050841,
+      "Composition": 0.212324,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 78,
+      "AtomicMass": 132,
+      "RelativeAtomicMass": 131.9041551,
+      "Composition": 0.269086,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 80,
+      "AtomicMass": 134,
+      "RelativeAtomicMass": 133.9053947,
+      "Composition": 0.104357,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Xe",
+      "Protons": 54,
+      "Neutrons": 82,
+      "AtomicMass": 136,
+      "RelativeAtomicMass": 135.9072145,
+      "Composition": 0.088573,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cs",
+      "Protons": 55,
+      "Neutrons": 78,
+      "AtomicMass": 133,
+      "RelativeAtomicMass": 132.905452,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 74,
+      "AtomicMass": 130,
+      "RelativeAtomicMass": 129.9063207,
+      "Composition": 0.00106,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 76,
+      "AtomicMass": 132,
+      "RelativeAtomicMass": 131.9050611,
+      "Composition": 0.00101,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 78,
+      "AtomicMass": 134,
+      "RelativeAtomicMass": 133.9045082,
+      "Composition": 0.02417,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 79,
+      "AtomicMass": 135,
+      "RelativeAtomicMass": 134.9056884,
+      "Composition": 0.06592,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 80,
+      "AtomicMass": 136,
+      "RelativeAtomicMass": 135.9045757,
+      "Composition": 0.07854,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 81,
+      "AtomicMass": 137,
+      "RelativeAtomicMass": 136.9058271,
+      "Composition": 0.11232,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ba",
+      "Protons": 56,
+      "Neutrons": 82,
+      "AtomicMass": 138,
+      "RelativeAtomicMass": 137.905247,
+      "Composition": 0.71698,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "La",
+      "Protons": 57,
+      "Neutrons": 81,
+      "AtomicMass": 138,
+      "RelativeAtomicMass": 137.9071149,
+      "Composition": 0.0008881,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "La",
+      "Protons": 57,
+      "Neutrons": 82,
+      "AtomicMass": 139,
+      "RelativeAtomicMass": 138.9063563,
+      "Composition": 0.9991119,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ce",
+      "Protons": 58,
+      "Neutrons": 78,
+      "AtomicMass": 136,
+      "RelativeAtomicMass": 135.9071292,
+      "Composition": 0.00185,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ce",
+      "Protons": 58,
+      "Neutrons": 80,
+      "AtomicMass": 138,
+      "RelativeAtomicMass": 137.905991,
+      "Composition": 0.00251,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ce",
+      "Protons": 58,
+      "Neutrons": 82,
+      "AtomicMass": 140,
+      "RelativeAtomicMass": 139.9054431,
+      "Composition": 0.8845,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ce",
+      "Protons": 58,
+      "Neutrons": 84,
+      "AtomicMass": 142,
+      "RelativeAtomicMass": 141.9092504,
+      "Composition": 0.11114,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pr",
+      "Protons": 59,
+      "Neutrons": 82,
+      "AtomicMass": 141,
+      "RelativeAtomicMass": 140.9076576,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 82,
+      "AtomicMass": 142,
+      "RelativeAtomicMass": 141.907729,
+      "Composition": 0.27152,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 83,
+      "AtomicMass": 143,
+      "RelativeAtomicMass": 142.90982,
+      "Composition": 0.12174,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 84,
+      "AtomicMass": 144,
+      "RelativeAtomicMass": 143.910093,
+      "Composition": 0.23798,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 85,
+      "AtomicMass": 145,
+      "RelativeAtomicMass": 144.9125793,
+      "Composition": 0.08293,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 86,
+      "AtomicMass": 146,
+      "RelativeAtomicMass": 145.9131226,
+      "Composition": 0.17189,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 88,
+      "AtomicMass": 148,
+      "RelativeAtomicMass": 147.9168993,
+      "Composition": 0.05756,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nd",
+      "Protons": 60,
+      "Neutrons": 90,
+      "AtomicMass": 150,
+      "RelativeAtomicMass": 149.9209022,
+      "Composition": 0.05638,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pm",
+      "Protons": 61,
+      "Neutrons": 84,
+      "AtomicMass": 145,
+      "RelativeAtomicMass": 144.9127559,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pm",
+      "Protons": 61,
+      "Neutrons": 86,
+      "AtomicMass": 147,
+      "RelativeAtomicMass": 146.915145,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 82,
+      "AtomicMass": 144,
+      "RelativeAtomicMass": 143.9120065,
+      "Composition": 0.0307,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 85,
+      "AtomicMass": 147,
+      "RelativeAtomicMass": 146.9149044,
+      "Composition": 0.1499,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 86,
+      "AtomicMass": 148,
+      "RelativeAtomicMass": 147.9148292,
+      "Composition": 0.1124,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 87,
+      "AtomicMass": 149,
+      "RelativeAtomicMass": 148.9171921,
+      "Composition": 0.1382,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 88,
+      "AtomicMass": 150,
+      "RelativeAtomicMass": 149.9172829,
+      "Composition": 0.0738,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 90,
+      "AtomicMass": 152,
+      "RelativeAtomicMass": 151.9197397,
+      "Composition": 0.2675,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sm",
+      "Protons": 62,
+      "Neutrons": 92,
+      "AtomicMass": 154,
+      "RelativeAtomicMass": 153.9222169,
+      "Composition": 0.2275,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Eu",
+      "Protons": 63,
+      "Neutrons": 88,
+      "AtomicMass": 151,
+      "RelativeAtomicMass": 150.9198578,
+      "Composition": 0.4781,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Eu",
+      "Protons": 63,
+      "Neutrons": 90,
+      "AtomicMass": 153,
+      "RelativeAtomicMass": 152.921238,
+      "Composition": 0.5219,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 88,
+      "AtomicMass": 152,
+      "RelativeAtomicMass": 151.9197995,
+      "Composition": 0.002,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 90,
+      "AtomicMass": 154,
+      "RelativeAtomicMass": 153.9208741,
+      "Composition": 0.0218,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 91,
+      "AtomicMass": 155,
+      "RelativeAtomicMass": 154.9226305,
+      "Composition": 0.148,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 92,
+      "AtomicMass": 156,
+      "RelativeAtomicMass": 155.9221312,
+      "Composition": 0.2047,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 93,
+      "AtomicMass": 157,
+      "RelativeAtomicMass": 156.9239686,
+      "Composition": 0.1565,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 94,
+      "AtomicMass": 158,
+      "RelativeAtomicMass": 157.9241123,
+      "Composition": 0.2484,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Gd",
+      "Protons": 64,
+      "Neutrons": 96,
+      "AtomicMass": 160,
+      "RelativeAtomicMass": 159.9270624,
+      "Composition": 0.2186,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tb",
+      "Protons": 65,
+      "Neutrons": 94,
+      "AtomicMass": 159,
+      "RelativeAtomicMass": 158.9253547,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 90,
+      "AtomicMass": 156,
+      "RelativeAtomicMass": 155.9242847,
+      "Composition": 0.00056,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 92,
+      "AtomicMass": 158,
+      "RelativeAtomicMass": 157.9244159,
+      "Composition": 0.00095,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 94,
+      "AtomicMass": 160,
+      "RelativeAtomicMass": 159.9252046,
+      "Composition": 0.02329,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 95,
+      "AtomicMass": 161,
+      "RelativeAtomicMass": 160.9269405,
+      "Composition": 0.18889,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 96,
+      "AtomicMass": 162,
+      "RelativeAtomicMass": 161.9268056,
+      "Composition": 0.25475,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 97,
+      "AtomicMass": 163,
+      "RelativeAtomicMass": 162.9287383,
+      "Composition": 0.24896,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Dy",
+      "Protons": 66,
+      "Neutrons": 98,
+      "AtomicMass": 164,
+      "RelativeAtomicMass": 163.9291819,
+      "Composition": 0.2826,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ho",
+      "Protons": 67,
+      "Neutrons": 98,
+      "AtomicMass": 165,
+      "RelativeAtomicMass": 164.9303288,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 94,
+      "AtomicMass": 162,
+      "RelativeAtomicMass": 161.9287884,
+      "Composition": 0.00139,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 96,
+      "AtomicMass": 164,
+      "RelativeAtomicMass": 163.9292088,
+      "Composition": 0.01601,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 98,
+      "AtomicMass": 166,
+      "RelativeAtomicMass": 165.9302995,
+      "Composition": 0.33503,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 99,
+      "AtomicMass": 167,
+      "RelativeAtomicMass": 166.9320546,
+      "Composition": 0.22869,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 100,
+      "AtomicMass": 168,
+      "RelativeAtomicMass": 167.9323767,
+      "Composition": 0.26978,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Er",
+      "Protons": 68,
+      "Neutrons": 102,
+      "AtomicMass": 170,
+      "RelativeAtomicMass": 169.9354702,
+      "Composition": 0.1491,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tm",
+      "Protons": 69,
+      "Neutrons": 100,
+      "AtomicMass": 169,
+      "RelativeAtomicMass": 168.9342179,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 98,
+      "AtomicMass": 168,
+      "RelativeAtomicMass": 167.9338896,
+      "Composition": 0.00123,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 100,
+      "AtomicMass": 170,
+      "RelativeAtomicMass": 169.9347664,
+      "Composition": 0.02982,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 101,
+      "AtomicMass": 171,
+      "RelativeAtomicMass": 170.9363302,
+      "Composition": 0.1409,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 102,
+      "AtomicMass": 172,
+      "RelativeAtomicMass": 171.9363859,
+      "Composition": 0.2168,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 103,
+      "AtomicMass": 173,
+      "RelativeAtomicMass": 172.9382151,
+      "Composition": 0.16103,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 104,
+      "AtomicMass": 174,
+      "RelativeAtomicMass": 173.9388664,
+      "Composition": 0.32026,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Yb",
+      "Protons": 70,
+      "Neutrons": 106,
+      "AtomicMass": 176,
+      "RelativeAtomicMass": 175.9425764,
+      "Composition": 0.12996,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Lu",
+      "Protons": 71,
+      "Neutrons": 104,
+      "AtomicMass": 175,
+      "RelativeAtomicMass": 174.9407752,
+      "Composition": 0.97401,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Lu",
+      "Protons": 71,
+      "Neutrons": 105,
+      "AtomicMass": 176,
+      "RelativeAtomicMass": 175.9426897,
+      "Composition": 0.02599,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 102,
+      "AtomicMass": 174,
+      "RelativeAtomicMass": 173.9400461,
+      "Composition": 0.0016,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 104,
+      "AtomicMass": 176,
+      "RelativeAtomicMass": 175.9414076,
+      "Composition": 0.0526,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 105,
+      "AtomicMass": 177,
+      "RelativeAtomicMass": 176.9432277,
+      "Composition": 0.186,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 106,
+      "AtomicMass": 178,
+      "RelativeAtomicMass": 177.9437058,
+      "Composition": 0.2728,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 107,
+      "AtomicMass": 179,
+      "RelativeAtomicMass": 178.9458232,
+      "Composition": 0.1362,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hf",
+      "Protons": 72,
+      "Neutrons": 108,
+      "AtomicMass": 180,
+      "RelativeAtomicMass": 179.946557,
+      "Composition": 0.3508,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ta",
+      "Protons": 73,
+      "Neutrons": 107,
+      "AtomicMass": 180,
+      "RelativeAtomicMass": 179.9474648,
+      "Composition": 0.0001201,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ta",
+      "Protons": 73,
+      "Neutrons": 108,
+      "AtomicMass": 181,
+      "RelativeAtomicMass": 180.9479958,
+      "Composition": 0.9998799,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "W",
+      "Protons": 74,
+      "Neutrons": 106,
+      "AtomicMass": 180,
+      "RelativeAtomicMass": 179.9467108,
+      "Composition": 0.0012,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "W",
+      "Protons": 74,
+      "Neutrons": 108,
+      "AtomicMass": 182,
+      "RelativeAtomicMass": 181.9482039,
+      "Composition": 0.265,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "W",
+      "Protons": 74,
+      "Neutrons": 109,
+      "AtomicMass": 183,
+      "RelativeAtomicMass": 182.9502228,
+      "Composition": 0.1431,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "W",
+      "Protons": 74,
+      "Neutrons": 110,
+      "AtomicMass": 184,
+      "RelativeAtomicMass": 183.9509309,
+      "Composition": 0.3064,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "W",
+      "Protons": 74,
+      "Neutrons": 112,
+      "AtomicMass": 186,
+      "RelativeAtomicMass": 185.9543628,
+      "Composition": 0.2843,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Re",
+      "Protons": 75,
+      "Neutrons": 110,
+      "AtomicMass": 185,
+      "RelativeAtomicMass": 184.9529545,
+      "Composition": 0.374,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Re",
+      "Protons": 75,
+      "Neutrons": 112,
+      "AtomicMass": 187,
+      "RelativeAtomicMass": 186.9557501,
+      "Composition": 0.626,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 108,
+      "AtomicMass": 184,
+      "RelativeAtomicMass": 183.9524885,
+      "Composition": 0.0002,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 110,
+      "AtomicMass": 186,
+      "RelativeAtomicMass": 185.953835,
+      "Composition": 0.0159,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 111,
+      "AtomicMass": 187,
+      "RelativeAtomicMass": 186.9557474,
+      "Composition": 0.0196,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 112,
+      "AtomicMass": 188,
+      "RelativeAtomicMass": 187.9558352,
+      "Composition": 0.1324,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 113,
+      "AtomicMass": 189,
+      "RelativeAtomicMass": 188.9581442,
+      "Composition": 0.1615,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 114,
+      "AtomicMass": 190,
+      "RelativeAtomicMass": 189.9584437,
+      "Composition": 0.2626,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Os",
+      "Protons": 76,
+      "Neutrons": 116,
+      "AtomicMass": 192,
+      "RelativeAtomicMass": 191.961477,
+      "Composition": 0.4078,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ir",
+      "Protons": 77,
+      "Neutrons": 114,
+      "AtomicMass": 191,
+      "RelativeAtomicMass": 190.9605893,
+      "Composition": 0.373,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ir",
+      "Protons": 77,
+      "Neutrons": 116,
+      "AtomicMass": 193,
+      "RelativeAtomicMass": 192.9629216,
+      "Composition": 0.627,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 112,
+      "AtomicMass": 190,
+      "RelativeAtomicMass": 189.9599297,
+      "Composition": 0.00012,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 114,
+      "AtomicMass": 192,
+      "RelativeAtomicMass": 191.9610387,
+      "Composition": 0.00782,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 116,
+      "AtomicMass": 194,
+      "RelativeAtomicMass": 193.9626809,
+      "Composition": 0.3286,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 117,
+      "AtomicMass": 195,
+      "RelativeAtomicMass": 194.9647917,
+      "Composition": 0.3378,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 118,
+      "AtomicMass": 196,
+      "RelativeAtomicMass": 195.9649521,
+      "Composition": 0.2521,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pt",
+      "Protons": 78,
+      "Neutrons": 120,
+      "AtomicMass": 198,
+      "RelativeAtomicMass": 197.9678949,
+      "Composition": 0.07356,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Au",
+      "Protons": 79,
+      "Neutrons": 118,
+      "AtomicMass": 197,
+      "RelativeAtomicMass": 196.9665688,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 116,
+      "AtomicMass": 196,
+      "RelativeAtomicMass": 195.9658326,
+      "Composition": 0.0015,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 118,
+      "AtomicMass": 198,
+      "RelativeAtomicMass": 197.9667686,
+      "Composition": 0.0997,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 119,
+      "AtomicMass": 199,
+      "RelativeAtomicMass": 198.9682806,
+      "Composition": 0.1687,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 120,
+      "AtomicMass": 200,
+      "RelativeAtomicMass": 199.9683266,
+      "Composition": 0.231,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 121,
+      "AtomicMass": 201,
+      "RelativeAtomicMass": 200.9703028,
+      "Composition": 0.1318,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 122,
+      "AtomicMass": 202,
+      "RelativeAtomicMass": 201.9706434,
+      "Composition": 0.2986,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hg",
+      "Protons": 80,
+      "Neutrons": 124,
+      "AtomicMass": 204,
+      "RelativeAtomicMass": 203.973494,
+      "Composition": 0.0687,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tl",
+      "Protons": 81,
+      "Neutrons": 122,
+      "AtomicMass": 203,
+      "RelativeAtomicMass": 202.9723446,
+      "Composition": 0.2952,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Tl",
+      "Protons": 81,
+      "Neutrons": 124,
+      "AtomicMass": 205,
+      "RelativeAtomicMass": 204.9744278,
+      "Composition": 0.7048,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pb",
+      "Protons": 82,
+      "Neutrons": 122,
+      "AtomicMass": 204,
+      "RelativeAtomicMass": 203.973044,
+      "Composition": 0.014,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pb",
+      "Protons": 82,
+      "Neutrons": 124,
+      "AtomicMass": 206,
+      "RelativeAtomicMass": 205.9744657,
+      "Composition": 0.241,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pb",
+      "Protons": 82,
+      "Neutrons": 125,
+      "AtomicMass": 207,
+      "RelativeAtomicMass": 206.9758973,
+      "Composition": 0.221,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pb",
+      "Protons": 82,
+      "Neutrons": 126,
+      "AtomicMass": 208,
+      "RelativeAtomicMass": 207.9766525,
+      "Composition": 0.524,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Bi",
+      "Protons": 83,
+      "Neutrons": 126,
+      "AtomicMass": 209,
+      "RelativeAtomicMass": 208.9803991,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Po",
+      "Protons": 84,
+      "Neutrons": 125,
+      "AtomicMass": 209,
+      "RelativeAtomicMass": 208.9824308,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Po",
+      "Protons": 84,
+      "Neutrons": 126,
+      "AtomicMass": 210,
+      "RelativeAtomicMass": 209.9828741,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "At",
+      "Protons": 85,
+      "Neutrons": 125,
+      "AtomicMass": 210,
+      "RelativeAtomicMass": 209.9871479,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "At",
+      "Protons": 85,
+      "Neutrons": 126,
+      "AtomicMass": 211,
+      "RelativeAtomicMass": 210.9874966,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rn",
+      "Protons": 86,
+      "Neutrons": 125,
+      "AtomicMass": 211,
+      "RelativeAtomicMass": 210.9906011,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rn",
+      "Protons": 86,
+      "Neutrons": 134,
+      "AtomicMass": 220,
+      "RelativeAtomicMass": 220.0113941,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rn",
+      "Protons": 86,
+      "Neutrons": 136,
+      "AtomicMass": 222,
+      "RelativeAtomicMass": 222.0175782,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fr",
+      "Protons": 87,
+      "Neutrons": 136,
+      "AtomicMass": 223,
+      "RelativeAtomicMass": 223.019736,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ra",
+      "Protons": 88,
+      "Neutrons": 135,
+      "AtomicMass": 223,
+      "RelativeAtomicMass": 223.0185023,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ra",
+      "Protons": 88,
+      "Neutrons": 136,
+      "AtomicMass": 224,
+      "RelativeAtomicMass": 224.020212,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ra",
+      "Protons": 88,
+      "Neutrons": 138,
+      "AtomicMass": 226,
+      "RelativeAtomicMass": 226.0254103,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ra",
+      "Protons": 88,
+      "Neutrons": 140,
+      "AtomicMass": 228,
+      "RelativeAtomicMass": 228.0310707,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ac",
+      "Protons": 89,
+      "Neutrons": 138,
+      "AtomicMass": 227,
+      "RelativeAtomicMass": 227.0277523,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Th",
+      "Protons": 90,
+      "Neutrons": 140,
+      "AtomicMass": 230,
+      "RelativeAtomicMass": 230.0331341,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Th",
+      "Protons": 90,
+      "Neutrons": 142,
+      "AtomicMass": 232,
+      "RelativeAtomicMass": 232.0380558,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pa",
+      "Protons": 91,
+      "Neutrons": 140,
+      "AtomicMass": 231,
+      "RelativeAtomicMass": 231.0358842,
+      "Composition": 1,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "U",
+      "Protons": 92,
+      "Neutrons": 141,
+      "AtomicMass": 233,
+      "RelativeAtomicMass": 233.0396355,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "U",
+      "Protons": 92,
+      "Neutrons": 142,
+      "AtomicMass": 234,
+      "RelativeAtomicMass": 234.0409523,
+      "Composition": 0.000054,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "U",
+      "Protons": 92,
+      "Neutrons": 143,
+      "AtomicMass": 235,
+      "RelativeAtomicMass": 235.0439301,
+      "Composition": 0.007204,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "U",
+      "Protons": 92,
+      "Neutrons": 144,
+      "AtomicMass": 236,
+      "RelativeAtomicMass": 236.0455682,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "U",
+      "Protons": 92,
+      "Neutrons": 146,
+      "AtomicMass": 238,
+      "RelativeAtomicMass": 238.0507884,
+      "Composition": 0.992742,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Np",
+      "Protons": 93,
+      "Neutrons": 143,
+      "AtomicMass": 236,
+      "RelativeAtomicMass": 236.04657,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Np",
+      "Protons": 93,
+      "Neutrons": 144,
+      "AtomicMass": 237,
+      "RelativeAtomicMass": 237.0481736,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 144,
+      "AtomicMass": 238,
+      "RelativeAtomicMass": 238.0495601,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 145,
+      "AtomicMass": 239,
+      "RelativeAtomicMass": 239.0521636,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 146,
+      "AtomicMass": 240,
+      "RelativeAtomicMass": 240.0538138,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 147,
+      "AtomicMass": 241,
+      "RelativeAtomicMass": 241.0568517,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 148,
+      "AtomicMass": 242,
+      "RelativeAtomicMass": 242.0587428,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Pu",
+      "Protons": 94,
+      "Neutrons": 150,
+      "AtomicMass": 244,
+      "RelativeAtomicMass": 244.0642053,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Am",
+      "Protons": 95,
+      "Neutrons": 146,
+      "AtomicMass": 241,
+      "RelativeAtomicMass": 241.0568293,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Am",
+      "Protons": 95,
+      "Neutrons": 148,
+      "AtomicMass": 243,
+      "RelativeAtomicMass": 243.0613813,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 147,
+      "AtomicMass": 243,
+      "RelativeAtomicMass": 243.0613893,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 148,
+      "AtomicMass": 244,
+      "RelativeAtomicMass": 244.0627528,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 149,
+      "AtomicMass": 245,
+      "RelativeAtomicMass": 245.0654915,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 150,
+      "AtomicMass": 246,
+      "RelativeAtomicMass": 246.0672238,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 151,
+      "AtomicMass": 247,
+      "RelativeAtomicMass": 247.0703541,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cm",
+      "Protons": 96,
+      "Neutrons": 152,
+      "AtomicMass": 248,
+      "RelativeAtomicMass": 248.0723499,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Bk",
+      "Protons": 97,
+      "Neutrons": 150,
+      "AtomicMass": 247,
+      "RelativeAtomicMass": 247.0703073,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Bk",
+      "Protons": 97,
+      "Neutrons": 152,
+      "AtomicMass": 249,
+      "RelativeAtomicMass": 249.0749877,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cf",
+      "Protons": 98,
+      "Neutrons": 151,
+      "AtomicMass": 249,
+      "RelativeAtomicMass": 249.0748539,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cf",
+      "Protons": 98,
+      "Neutrons": 152,
+      "AtomicMass": 250,
+      "RelativeAtomicMass": 250.0764062,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cf",
+      "Protons": 98,
+      "Neutrons": 153,
+      "AtomicMass": 251,
+      "RelativeAtomicMass": 251.0795886,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cf",
+      "Protons": 98,
+      "Neutrons": 154,
+      "AtomicMass": 252,
+      "RelativeAtomicMass": 252.0816272,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Es",
+      "Protons": 99,
+      "Neutrons": 153,
+      "AtomicMass": 252,
+      "RelativeAtomicMass": 252.08298,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fm",
+      "Protons": 100,
+      "Neutrons": 157,
+      "AtomicMass": 257,
+      "RelativeAtomicMass": 257.0951061,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Md",
+      "Protons": 101,
+      "Neutrons": 157,
+      "AtomicMass": 258,
+      "RelativeAtomicMass": 258.0984315,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Md",
+      "Protons": 101,
+      "Neutrons": 159,
+      "AtomicMass": 260,
+      "RelativeAtomicMass": 260.10365,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "No",
+      "Protons": 102,
+      "Neutrons": 157,
+      "AtomicMass": 259,
+      "RelativeAtomicMass": 259.10103,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Lr",
+      "Protons": 103,
+      "Neutrons": 159,
+      "AtomicMass": 262,
+      "RelativeAtomicMass": 262.10961,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rf",
+      "Protons": 104,
+      "Neutrons": 163,
+      "AtomicMass": 267,
+      "RelativeAtomicMass": 267.12179,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Db",
+      "Protons": 105,
+      "Neutrons": 163,
+      "AtomicMass": 268,
+      "RelativeAtomicMass": 268.12567,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Sg",
+      "Protons": 106,
+      "Neutrons": 165,
+      "AtomicMass": 271,
+      "RelativeAtomicMass": 271.13393,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Bh",
+      "Protons": 107,
+      "Neutrons": 165,
+      "AtomicMass": 272,
+      "RelativeAtomicMass": 272.13826,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Hs",
+      "Protons": 108,
+      "Neutrons": 162,
+      "AtomicMass": 270,
+      "RelativeAtomicMass": 270.13429,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mt",
+      "Protons": 109,
+      "Neutrons": 167,
+      "AtomicMass": 276,
+      "RelativeAtomicMass": 276.15159,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ds",
+      "Protons": 110,
+      "Neutrons": 171,
+      "AtomicMass": 281,
+      "RelativeAtomicMass": 281.16451,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Rg",
+      "Protons": 111,
+      "Neutrons": 169,
+      "AtomicMass": 280,
+      "RelativeAtomicMass": 280.16514,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Cn",
+      "Protons": 112,
+      "Neutrons": 173,
+      "AtomicMass": 285,
+      "RelativeAtomicMass": 285.17712,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Nh",
+      "Protons": 113,
+      "Neutrons": 171,
+      "AtomicMass": 284,
+      "RelativeAtomicMass": 284.17873,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Fl",
+      "Protons": 114,
+      "Neutrons": 175,
+      "AtomicMass": 289,
+      "RelativeAtomicMass": 289.19042,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Mc",
+      "Protons": 115,
+      "Neutrons": 173,
+      "AtomicMass": 288,
+      "RelativeAtomicMass": 288.19274,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Lv",
+      "Protons": 116,
+      "Neutrons": 177,
+      "AtomicMass": 293,
+      "RelativeAtomicMass": 293.20449,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Ts",
+      "Protons": 117,
+      "Neutrons": 175,
+      "AtomicMass": 292,
+      "RelativeAtomicMass": 292.20746,
+      "Composition": 0,
+      "IsotopeName": ""
+    },
+    {
+      "Symbol": "Og",
+      "Protons": 118,
+      "Neutrons": 176,
+      "AtomicMass": 294,
+      "RelativeAtomicMass": 294.21392,
+      "Composition": 0,
+      "IsotopeName": ""
+    }
+  ]
+}
