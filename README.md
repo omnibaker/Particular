@@ -5,11 +5,16 @@ Unity project that explores the periodic table and atoms up close by using Unity
 The UI is entirely built from UIToolkit using various bindings, templates and custom elements.
 
 Data is generated from local JSON files. I got this data years ago - can't remember where though. It was free and openly sourced, and has been edited since. 
+<p align="center">
+   <img width="20%"  alt="particular1" src="https://github.com/user-attachments/assets/e408a10f-c5b4-4505-9d29-5df8a87905b0" />
+   &nbsp; &nbsp; &nbsp; &nbsp;
+   <img width="20%"  alt="particular2" src="https://github.com/user-attachments/assets/7d617c48-da5e-4c35-aa4d-f1bbe192df66" />
+   &nbsp; &nbsp; &nbsp; &nbsp;
+   <img width="20%"  alt="particular3" src="https://github.com/user-attachments/assets/327f717a-184b-4311-a654-5505fcc66a80" />
+   &nbsp; &nbsp; &nbsp; &nbsp;
+   <img width="20%"  alt="particular4" src="https://github.com/user-attachments/assets/85b44536-b2b0-4bfd-940a-b1389ecf7986" />
+</p>
 
-<img width="240" height="320" alt="particular1" src="https://github.com/user-attachments/assets/e408a10f-c5b4-4505-9d29-5df8a87905b0" />
-<img width="240" height="320" alt="particular2" src="https://github.com/user-attachments/assets/7d617c48-da5e-4c35-aa4d-f1bbe192df66" />
-<img width="240" height="320" alt="particular3" src="https://github.com/user-attachments/assets/327f717a-184b-4311-a654-5505fcc66a80" />
-<img width="240" height="320" alt="particular4" src="https://github.com/user-attachments/assets/85b44536-b2b0-4bfd-940a-b1389ecf7986" />
 
 
 
